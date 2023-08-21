@@ -1,0 +1,152 @@
+body{
+    box-sizing: border-box;
+    
+}
+
+ .card-header ul{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+     
+}
+.card-header ul li a{
+    color: black;
+}
+
+.container .row .col{
+    margin-top: 50px;
+    
+}
+.container .row .col h1{
+    text-align: left;
+    margin-right: 20px;
+}
+.container .row .col {
+    text-align: left;
+    font-size: medium;
+    /* width: 480px; */
+    
+
+}
+ .button{
+    text-align: left;
+    margin-top: 50px;
+   
+}
+.dropdown1{
+    display: none;
+}
+.btn.btn-primary.btn-lg{
+    border-radius:33px;
+    font-size: medium;
+}
+.para2 h3{
+    margin-top: 70px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.card{
+    
+    border-radius: 25px;
+    /* width: 16rem; */
+}
+.para3 h3{
+    margin-top: 100px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.col img{
+    /* margin:10px; */
+    margin-left: 25px;
+    
+}
+.col h5{
+    margin-top: 25px;
+    margin: 10px;
+} 
+.col p{
+    font: 18px;
+    margin: 10px;
+}
+.para4{
+    margin-top: 100px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.col-4 .button{
+    margin-top: 5px;
+}
+.col-4 b{
+    margin-left: 5px;
+}
+.col-4 p{
+    margin-top: 10px;
+}
+.para5{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+/* .reviewbox{
+    width:auto; 
+    height: 270px; 
+    background-color: #ebeff3; 
+    border-radius: 40px;
+    margin: 25px;
+    box-shadow: 0px 16px 48px #00000029;
+} */
+
+.container-sm{
+    background-color: #ebeff3;
+    border-radius: 40px; 
+} 
+.container-sm .h-100{
+margin-top: 60px;
+}
+ 
+.checked{
+color: orange;
+float: right;
+margin-top: 0%;
+}
+
+.arrow{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(236, 232, 232);
+    border-radius: 50%;
+    float: right;
+    margin-top: -20%;
+    margin-right: -22px;
+}
+.arrow b{
+    font-size: 26px;
+    margin: 20px;
+    color: rgb(115, 115, 116);
+    
+}
+.para6{
+    margin-top: 15%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+.col{
+text-align: center;
+}
+.blackbox{
+    height:200px;
+    width: auto;
+    background-color: black;
+    margin-top: auto;
+}
+.blackbox p{
+    color: #ebeff3;
+    text-align:center;
+    /* align-self: flex-end; */
+     
+   }
+.copy{
+    justify-content: center; 
+     align-items: center;
+    
+   }
